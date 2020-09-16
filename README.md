@@ -16,7 +16,7 @@ The [complete documentation](https://www.smslink.ro/sms-gateway-documentatie-sms
 
 ## System Requirements
 
-[curl](https://curl.haxx.se/) 
+[curl](https://curl.haxx.se/), based on libcurl
 
 ## Additional modules and integrations
 
